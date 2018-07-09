@@ -1,4 +1,5 @@
 <?php
+//测试git分支 哈哈哈
 defined('BASEPATH') OR exit('No direct script access allowed');
 我的天啊
 class Home extends Admin_Controller {
