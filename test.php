@@ -1,5 +1,5 @@
 <?php
-//测试git分支
+//测试git分支 哈哈哈
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Home extends Admin_Controller {
