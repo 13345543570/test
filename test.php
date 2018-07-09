@@ -1,4 +1,5 @@
 <?php
+//测试master1
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Home extends Admin_Controller {
